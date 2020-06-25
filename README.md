@@ -1,2 +1,2 @@
 # ML_SBT
-Homework for ML SBT
+Homework for ML SBT MIPT
